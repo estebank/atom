@@ -4,3 +4,8 @@ version = "0.1.0"
 authors = ["Esteban Küber <esteban@kuber.com.ar>"]
 
 [dependencies]
+actix = "*"
+actix-web = "*"
+futures = "*"
+lazy_static = "*"
+time = "*"
